@@ -1,2 +1,9 @@
-# fast-markdown-notes-91
-A simple markdown notes project
+# Markdown Notes
+
+A simple markdown notes project.
+\n
+## Getting Started
+
+```bash
+python markdown.py
+```
